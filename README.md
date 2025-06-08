@@ -1,11 +1,11 @@
-"The Cluster Chronicles: Exploring Data Divisions"
+📌 Project Title
+The Cluster Chronicles: Exploring Data Divisions
 
 This machine learning project segments Instagram users based on how often they use the platform and how much they spend. By applying multiple clustering algorithms (K-Means, K-Medoids, and Hierarchical Clustering), it identifies natural patterns in the data to support marketing and engagement strategies.
 
 
-
 ## 📌 Overview
-This project explores the behavioral segmentation of Instagram users by clustering them based on how often they visit the platform and their spending habits. It uses unsupervised learning techniques to reveal natural groupings in the data without prior labels.
+This project dives into the fascinating world of unsupervised machine learning by clustering Instagram users based on two behavioral features: how frequently they visit the platform and their spending rank. By applying and comparing multiple clustering algorithms, the project aims to uncover meaningful user segments — enabling data-driven personalization and engagement strategies.
 
 ## 📁 Dataset
 The dataset used is from Kaggle: [Instagram Visit Clustering Dataset](https://www.kaggle.com/datasets/chaandsheikh/instagram-visit-clustering)  
