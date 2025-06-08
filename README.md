@@ -1,4 +1,5 @@
 "The Cluster Chronicles: Exploring Data Divisions"
+
 This machine learning project segments Instagram users based on how often they use the platform and how much they spend. By applying multiple clustering algorithms (K-Means, K-Medoids, and Hierarchical Clustering), it identifies natural patterns in the data to support marketing and engagement strategies.
 
 
