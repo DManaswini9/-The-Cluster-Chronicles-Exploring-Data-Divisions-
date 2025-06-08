@@ -1,4 +1,4 @@
-📌 Project Title
+## 📌 Project Title
 
 The Cluster Chronicles: Exploring Data Divisions
 
